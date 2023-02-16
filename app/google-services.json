@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697239558803",
+    "project_id": "cineverse-finalproject-kotlin",
+    "storage_bucket": "cineverse-finalproject-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697239558803:android:b2002d31f8d285e463cb66",
+        "android_client_info": {
+          "package_name": "com.app.cineverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697239558803-tuad4vr1uigk60b4mkahbh6u3969chpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnkDIcu67pltqf1R42ym830Evk7tyOf2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697239558803-tuad4vr1uigk60b4mkahbh6u3969chpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

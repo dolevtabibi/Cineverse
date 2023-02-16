@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cineverse</string>
+    <string name="enter_first_name">הכנס שם פרטי</string>
+    <string name="enter_last_name">הכנס שם משפחה</string>
+    <string name="enter_email">הכנס כתובת מייל</string>
+    <string name="invalid_email">כתובת המייל אינה חוקית</string>
+    <string name="enter_password">הכנס סיסמא</string>
+    <string name="invalid_password">הסיסמא שלך צריכה להיות לפחות 6 תווים</string>
+    <string name="invalid_repassword">הסיסמאות אינן זהות</string>
+    <string name="logout">התנתק</string>
+    <string name="forgot_password">שכחתי סיסמא</string>
+    <string name="enter_your_e_mail_address_we_ll_send_n_you_a_email_to_reset_your_password">הכנס כתובת מייל, מייל לשחזור הסיסמא ישלח לכתובת זו</string>
+    <string name="enter_your_email">" "</string>
+    <string name="reset_password">אפס סיסמא</string>
+    <string name="email">כתובת מייל</string>
+    <string name="password">סיסמא</string>
+    <string name="login">התחבר</string>
+    <string name="continue_as_guest">המשך כאורח</string>
+    <string name="create_new_account">צור משתמש חדש</string>
+    <string name="popular_movies">פופולריים</string>
+    <string name="submit">שלח</string>
+    <string name="confirm_password">אישור סיסמא</string>
+    <string name="last_name">שם משפחה</string>
+    <string name="first_name">שם פרטי</string>
+    <string name="genre_title">קטגוריה</string>
+    <string name="title">כותרת</string>
+    <string name="description">תיאור</string>
+    <string name="home">בית</string>
+    <string name="favorite_movies">מועדפים</string>
+    <string name="user_reg_succ_but">נרשמת בהצלחה אך קרתה שגיאה בשמירת הנתונים</string>
+    <string name="user_reg_succ">נרשמת בהצלחה!</string>
+    <string name="Invalid_authentication">שגיאת אימות</string>
+    <string name="Authentication_failed_Password">האימות נכשל, הסיסמא צריכה להיות לפחות 6 ספרות</string>
+    <string name="Authentication_failed_invalid_email">האימות נכשל, האימייל שהוכנס לא תקין</string>
+    <string name="Authentication_failed_exsit_email">האימות נכשל, האימייל שהוכנס כבר קיים</string>
+    <string name="Connecting">מתחבר</string>
+    <string name="Unknown_error_refreshing">התרחשה תקלה, נא לבצע רענון לאפליקציה</string>
+    <string name="Loading">טוען</string>
+    <string name="Login">התחבר</string>
+    <string name="Email_sent_succ">אימייל לאיפוס סיסמא נשלח למייל שלך</string>
+    <string name="Reset_Password">אפס סיסמא</string>
+    <string name="sure_logout">אתה בטוח שאתה רוצה להתנתק</string>
+    <string name="no">לא</string>
+    <string name="yes">כן</string>
+    <string name="check_email_pass">אימות נכשל, בדוק אימייל וסיסמא</string>
+</resources>
