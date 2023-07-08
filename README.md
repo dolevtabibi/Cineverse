@@ -28,9 +28,9 @@ You can watch a demo video of the application on YouTube: [Cineverse App Demo](h
 To use the Cineverse application, follow these steps:
 1. Launch the application on your Android device.
 2. On the login screen, you have two options:
-* Sign in to the application using your credentials.
-* Alternatively, you can click on Continue as Guest to access the app without signing in.
-
+   * Sign in to the application using your credentials.
+   * Alternatively, you can click on Continue as Guest to access the app without signing in.
+     
 3. Once logged in or as a guest, you will be taken to the main screen of the application.
 4. Explore the various features and sections of the app, including:
    * Browse movies by genre.
