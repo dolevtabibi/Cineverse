@@ -43,4 +43,3 @@ To use the Cineverse application, follow these steps:
 The application is designed to be user-friendly and intuitive, so you should have no trouble using its features and functionalities.
 
 Feel free to reach out to me if you have any questions or need further assistance.
-
